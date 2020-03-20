@@ -21,6 +21,11 @@
         "https://ci.micdoodle8.com/job/Galacticraft-1.12/181/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.1.181.jar",
         "https://ci.micdoodle8.com/job/Galacticraft-1.12/181/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.1.181.jar"
     ],
+    "preferred_order": [
+        "beta",
+        "release",
+        "alpha"
+    ],
     "curse_mods": [
         "ae2wtlib",
         "agricraft",
@@ -37,7 +42,6 @@
         "bibliocraft",
         "biome-bundle",
         "birds-nests",
-        "blur",
         "buildcraft",
         "camouflaged-creepers",
         "ceramics",
