@@ -21,6 +21,12 @@
         "https://ci.micdoodle8.com/job/Galacticraft-1.12/181/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.1.181.jar",
         "https://ci.micdoodle8.com/job/Galacticraft-1.12/181/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.1.181.jar"
     ],
+    "external_files": [
+        "config/**/*",
+        "resources/**/*",
+        "options.txt",
+        "optionsof.txt"
+    ],
     "release_preference": [
         "beta",
         "release",
