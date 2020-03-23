@@ -49,7 +49,8 @@
             "proportional-destruction-particles",
             "sound-filters",
             "tinkers-jei",
-            "waila-harvestability"
+            "waila-harvestability",
+            "worldeditcui-forge-edition-2"
         ]
     },
     "server": {
@@ -186,6 +187,7 @@
             "weather-storms-tornadoes",
             "wireless-crafting-terminal",
             "wireless-redstone-cbe",
+            "worldedit",
             "wrapup"
         ]
     }
