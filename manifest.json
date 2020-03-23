@@ -8,7 +8,6 @@
         "1.12.0",
         "1.12"
     ],
-    "java_args": "-Xmx8G -Xms8G -Xaggressive -Xdisableexplicitgc -Xgc:concurrentScavenge -Xgcthreads6",
     "java_download": {
         "win": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08_openj9-0.18.1/OpenJDK8U-jre_x64_windows_openj9_8u242b08_openj9-0.18.1.zip",
         "mac": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08_openj9-0.18.1/OpenJDK8U-jre_x64_mac_openj9_8u242b08_openj9-0.18.1.tar.gz",
@@ -22,12 +21,17 @@
         "alpha"
     ],
     "client": {
-        "external_files": [
-            "mods/**/*",
-            "resources/**/*",
-            "options.txt",
-            "optionsof.txt"
-        ],
+        "java_args": "-Xmx6G -Xms6G -Xaggressive -Xdisableexplicitgc -Xgc:concurrentScavenge -Xgcthreads4",
+        "external_files": {
+            "overwrite": [
+                "mods/**/*",
+                "resources/**/*"
+            ],
+            "immutable": [
+                "options.txt",
+                "optionsof.txt"
+            ]
+        },
         "external_mods": {},
         "curseforge_mods": [
             "back-tools",
@@ -54,9 +58,16 @@
         ]
     },
     "server": {
-        "external_files": [
-            "config/**/*"
-        ],
+        "java_args": "-Xmx10G -Xms10G -Xaggressive -Xdisableexplicitgc -Xgc:concurrentScavenge -Xgcthreads6",
+        "external_files": {
+            "overwrite": [
+                "config/**/*"
+            ],
+            "immutable": [
+                "eula.txt",
+                "server.properties"
+            ]
+        },
         "external_mods": {
             "galacticraft-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.244.jar",
             "galacticraft-planets": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.244.jar",
