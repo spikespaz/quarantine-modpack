@@ -32,12 +32,17 @@
                 "optionsof.txt"
             ]
         },
-        "external_mods": {},
+        "external_mods": {
+            "autoswitch": "https://thebombzen.com/AutoSwitch/release/AutoSwitch-v5.6.2-mc1.12.2.jar",
+            "thebombzenapi": "https://thebombzen.com/ThebombzenAPI/release/ThebombzenAPI-v2.9.3-mc1.12.2.jar"
+        },
         "curseforge_mods": [
             "back-tools",
+            "better-placement",
             "camouflaged-creepers",
             "chunk-animator",
             "client-tweaks",
+            "controlling",
             "ctm",
             "custom-main-menu",
             "dynamic-surroundings",
@@ -46,9 +51,11 @@
             "hwyla",
             "ingame-info-xml",
             "inventory-tweaks",
+            "item-scroller",
             "itemphysic-lite",
             "just-enough-buttons",
             "minecraft-rich-presence",
+            "minemenu",
             "placement-preview",
             "proportional-destruction-particles",
             "reauth",
