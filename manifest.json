@@ -66,10 +66,10 @@
             "immutable": []
         },
         "external_mods": {
-            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.1.10/spongeforge-1.12.2-2838-7.1.10.jar",
             "galacticraft-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.244.jar",
             "galacticraft-planets": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.244.jar",
             "micdoodle-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.244.jar",
+            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.0/spongeforge-1.12.2-2838-7.2.0.jar",
             "vanillafix": "https://cdn.discordapp.com/attachments/142425412096491520/692049939823329350/VanillaFix-1.0.10-SNAPSHOT.jar"
         },
         "curseforge_mods": [
@@ -158,7 +158,6 @@
             "pams-clay-spawn",
             "pams-get-all-the-seeds",
             "pams-harvestcraft",
-            "phosphor",
             "pressure-pipes",
             "progressive-automation-early-miner",
             "project-red-base",
