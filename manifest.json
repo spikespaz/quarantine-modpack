@@ -84,6 +84,7 @@
             "vanillafix": "https://cdn.discordapp.com/attachments/142425412096491520/692049939823329350/VanillaFix-1.0.10-SNAPSHOT.jar"
         },
         "curseforge_mods": [
+            "additional-pipes-for-buildcraft",
             "ae2wtlib",
             "agricraft",
             "ai-improvements",
@@ -149,6 +150,7 @@
             "kleeslabs",
             "libraryex",
             "llibrary",
+            "logistics-pipes",
             "lunatriuscore",
             "mantle",
             "mcjtylib",
