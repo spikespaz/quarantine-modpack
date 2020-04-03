@@ -56,7 +56,6 @@
             "just-enough-buttons",
             "minecraft-rich-presence",
             "minemenu",
-            "placement-preview",
             "proportional-destruction-particles",
             "reauth",
             "rebind",
@@ -85,7 +84,6 @@
         },
         "curseforge_mods": [
             "additional-pipes-for-buildcraft",
-            "advanced-machines",
             "ae2wtlib",
             "agricraft",
             "ai-improvements",

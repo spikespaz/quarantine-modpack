@@ -22,7 +22,7 @@
           <num>12</num>
         </sub>
       </if>
-      <str>$7:$6{mctimem} $7</str>
+      <str>$7:$6{mctimem} $3</str>
       <if> <!-- Get AM if hour is less than 13 -->
         <less>
           <var>mctimeh</var>
@@ -50,29 +50,21 @@
       <var>fps</var>
     </line>
     <line>
-      <if>
-        <greater>
-          <var>ping</var>
-          <num>-1</num>
-        </greater>
-        <concat>
-          <str>Ping: </str>
-          <op> <!-- Get a color by value that is less than -->
-            <str>gt</str>
-            <var>ping</var>
-            <num>100</num>
-            <num>80</num>
-            <num>60</num>
-            <num>40</num>
-            <str>$4</str> <!-- Dark Red -->
-            <str>$c</str> <!-- Red -->
-            <str>$6</str> <!-- Gold -->
-            <str>$e</str> <!-- Yellow -->
-            <str>$a</str> <!-- Green -->
-          </op>
-          <str>{ping}</str>
-        </concat>
-      </if>
+      <str>Ping: </str>
+      <op> <!-- Get a color by value that is less than -->
+        <str>gt</str>
+        <var>ping</var>
+        <num>100</num>
+        <num>80</num>
+        <num>60</num>
+        <num>40</num>
+        <str>$4</str> <!-- Dark Red -->
+        <str>$c</str> <!-- Red -->
+        <str>$6</str> <!-- Gold -->
+        <str>$e</str> <!-- Yellow -->
+        <str>$a</str> <!-- Green -->
+      </op>
+      <str>{ping}</str>
     </line>
   </lines>
   <lines at="topcenter">
