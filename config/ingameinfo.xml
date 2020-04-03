@@ -50,21 +50,29 @@
       <var>fps</var>
     </line>
     <line>
-      <str>Ping: </str>
-      <op> <!-- Get a color by value that is less than -->
-        <str>gt</str>
-        <var>ping</var>
-        <num>100</num>
-        <num>80</num>
-        <num>60</num>
-        <num>40</num>
-        <str>$4</str> <!-- Dark Red -->
-        <str>$c</str> <!-- Red -->
-        <str>$6</str> <!-- Gold -->
-        <str>$e</str> <!-- Yellow -->
-        <str>$a</str> <!-- Green -->
-      </op>
-      <str>{ping}</str>
+      <if>
+        <greater>
+          <var>ping</var>
+          <num>0</num>
+        </greater>
+        <concat>
+          <str>Ping: </str>
+          <op> <!-- Get a color by value that is less than -->
+            <str>gt</str>
+            <var>ping</var>
+            <num>100</num>
+            <num>80</num>
+            <num>60</num>
+            <num>40</num>
+            <str>$4</str> <!-- Dark Red -->
+            <str>$c</str> <!-- Red -->
+            <str>$6</str> <!-- Gold -->
+            <str>$e</str> <!-- Yellow -->
+            <str>$a</str> <!-- Green -->
+          </op>
+          <str>{ping}</str>
+        </concat>
+      </if>
     </line>
   </lines>
   <lines at="topcenter">
