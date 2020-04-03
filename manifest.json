@@ -17,8 +17,7 @@
     "version_label": "1.12.2-forge1.12.2-14.23.5.2847",
     "release_preference": "release",
     "load_priority": [
-        "spongeforge",
-        "vanillafix"
+        "spongeforge"
     ],
     "client": {
         "java_args": "-Xmx6G -Xms6G -Xaggressive -Xdisableexplicitgc -Xgc:concurrentScavenge -Xgcthreads4",
@@ -83,8 +82,7 @@
             "galacticraft-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.244.jar",
             "galacticraft-planets": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.244.jar",
             "micdoodle-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.244.jar",
-            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.0/spongeforge-1.12.2-2838-7.2.0.jar",
-            "vanillafix": "https://cdn.discordapp.com/attachments/142425412096491520/692049939823329350/VanillaFix-1.0.10-SNAPSHOT.jar"
+            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.0/spongeforge-1.12.2-2838-7.2.0.jar"
         },
         "curseforge_mods": [
             "additional-pipes-for-buildcraft",
@@ -225,6 +223,7 @@
             "tick-dynamic",
             "tinkers-construct",
             "tumbleweed",
+            "vanillafix",
             "wawla-what-are-we-looking-at",
             "wireless-crafting-terminal",
             "wireless-redstone-cbe",
