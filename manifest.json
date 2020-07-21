@@ -72,7 +72,9 @@
             "texfix",
             "tinkers-jei",
             "wi-zoom",
-            "worldeditcui-forge-edition-2:2629417"
+            "worldeditcui-forge-edition-2:2629417",
+            "xaeros-minimap",
+            "xaeros-world-map"
         ]
     },
     "server": {
@@ -161,7 +163,6 @@
             "iron-chests",
             "jaopca",
             "jei",
-            "journeymap",
             "kleeslabs",
             "libraryex",
             "llibrary",
