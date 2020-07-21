@@ -87,6 +87,7 @@
             "galacticraft-core": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
             "galacticraft-planets": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
             "micdoodle-core": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.3/spongeforge-1.12.2-2838-7.2.3.jar"
         },
         "curseforge_mods": [
             "additional-pipes-for-buildcraft",
