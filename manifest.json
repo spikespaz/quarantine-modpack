@@ -84,10 +84,9 @@
             "immutable": []
         },
         "external_mods": {
-            "galacticraft-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.244.jar",
-            "galacticraft-planets": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.244.jar",
-            "micdoodle-core": "https://ci.micdoodle8.com/job/Galacticraft-1.12/244/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.244.jar",
-            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.0/spongeforge-1.12.2-2838-7.2.0.jar"
+            "galacticraft-core": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+            "galacticraft-planets": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+            "micdoodle-core": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
         },
         "curseforge_mods": [
             "additional-pipes-for-buildcraft",
