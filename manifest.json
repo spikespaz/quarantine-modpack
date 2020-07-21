@@ -17,6 +17,7 @@
     "version_label": "1.12.2-forge-14.23.5.2854",
     "release_preference": "release",
     "load_priority": [
+        "mixinbootstrap",
         "spongeforge"
     ],
     "client": {
@@ -167,6 +168,7 @@
             "lunatriuscore",
             "mantle",
             "mcjtylib",
+            "mixinbootstrap",
             "mjrlegendslib",
             "mmmmmmmmmmmm",
             "mo-creatures",
