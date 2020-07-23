@@ -33,8 +33,16 @@
             ]
         },
         "external_mods": {
-            "autoswitch": "https://thebombzen.com/AutoSwitch/release/AutoSwitch-v5.6.2-mc1.12.2.jar",
-            "thebombzenapi": "https://thebombzen.com/ThebombzenAPI/release/ThebombzenAPI-v2.9.3-mc1.12.2.jar"
+            "autoswitch": {
+                "name": "AutoSwitch",
+                "version": "5.6.2",
+                "url": "https://thebombzen.com/AutoSwitch/release/AutoSwitch-v5.6.2-mc1.12.2.jar"
+            },
+            "thebombzenapi": {
+                "name": "ThebombzenAPI",
+                "version": "2.9.3",
+                "url": "https://thebombzen.com/ThebombzenAPI/release/ThebombzenAPI-v2.9.3-mc1.12.2.jar"
+            }
         },
         "curseforge_mods": [
             "auto-third-person",
@@ -84,11 +92,31 @@
             "immutable": []
         },
         "external_mods": {
-            "galacticraft-core": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
-            "galacticraft-planets": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-            "micdoodle-core": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
-            "spark": "https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-universal/build/libs/spark.jar",
-            "spongeforge": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.3/spongeforge-1.12.2-2838-7.2.3.jar"
+            "galacticraft-core": {
+                "name": "GalacticraftCore",
+                "version": "1.12.2-4.0.2.280",
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+            },
+
+            "galacticraft-planets": {
+                "name": "Galacticraft Planets",
+                "version": "1.12.2-4.0.2.280",
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+            },
+            "micdoodle-core": {
+                "name": "MicdoodleCore",
+                "version": "1.12.2-4.0.2.280",
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
+            },
+            "spark": {
+                "name": "Spark",
+                "url": "https://ci.lucko.me/job/spark/lastStableBuild/artifact/spark-universal/build/libs/spark.jar"
+            },
+            "spongeforge": {
+                "name": "SpongeForge",
+                "version": "1.12.2-2838-7.2.3",
+                "url": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.3/spongeforge-1.12.2-2838-7.2.3.jar"
+            }
         },
         "curseforge_mods": [
             "additional-pipes-for-buildcraft",
