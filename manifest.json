@@ -21,7 +21,7 @@
         "spongeforge"
     ],
     "client": {
-        "java_args": "-Xmx8G -Xms8G -XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
+        "java_args": "-XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
         "external_files": {
             "overwrite": [
                 "mods/**/*",
@@ -84,7 +84,7 @@
         ]
     },
     "server": {
-        "java_args": "-Xmx10G -Xms10G -XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
+        "java_args": "-XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
         "external_files": {
             "overwrite": [
                 "config/**/*"
