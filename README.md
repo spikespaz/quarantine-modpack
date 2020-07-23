@@ -42,7 +42,6 @@
 | Quark | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark), [Official Website](https://quark.vazkii.net/#features), [FTB Wiki](https://ftbwiki.org/Quark) |
 | Redstone Arsenal | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal), [Official Wiki](https://teamcofh.com/docs/1.12/redstone-arsenal/), [FTB Wiki](https://ftbwiki.org/Redstone_Arsenal) |
 | Reforged | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reforged), [Official Wiki](https://github.com/ThexXTURBOXx/Reforged/wiki) |
-| RFTools | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools), [Official Wiki](https://github.com/McJtyMods/RFTools/wiki), [Official FTB Wiki](https://ftb.gamepedia.com/RFTools), [FTB Wiki](https://ftbwiki.org/RFTools) |
 | SaltyMod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/saltymod), [Official Wiki](https://minecraft-ru.gamepedia.com/SaltyMod) |
 | Storage Drawers | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) |
 | TekTopia | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tektopia), [Official Wiki](https://sites.google.com/view/tektopia), [Fandom Wiki](https://tektopia.fandom.com/wiki/Tektopia_Wiki) |
