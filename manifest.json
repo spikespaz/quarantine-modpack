@@ -36,12 +36,14 @@
             "autoswitch": {
                 "name": "AutoSwitch",
                 "version": "5.6.2",
-                "url": "https://thebombzen.com/AutoSwitch/release/AutoSwitch-v5.6.2-mc1.12.2.jar"
+                "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278132-thebombzens-mods",
+                "download": "https://thebombzen.com/AutoSwitch/release/AutoSwitch-v5.6.2-mc1.12.2.jar"
             },
             "thebombzenapi": {
                 "name": "ThebombzenAPI",
                 "version": "2.9.3",
-                "url": "https://thebombzen.com/ThebombzenAPI/release/ThebombzenAPI-v2.9.3-mc1.12.2.jar"
+                "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278132-thebombzens-mods",
+                "download": "https://thebombzen.com/ThebombzenAPI/release/ThebombzenAPI-v2.9.3-mc1.12.2.jar"
             }
         },
         "curseforge_mods": [
@@ -95,27 +97,32 @@
             "galacticraft-core": {
                 "name": "GalacticraftCore",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+                "download": "https://micdoodle8.com/mods/galacticraft"
             },
 
             "galacticraft-planets": {
                 "name": "Galacticraft Planets",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+                "download": "https://micdoodle8.com/mods/galacticraft"
             },
             "micdoodle-core": {
                 "name": "MicdoodleCore",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
+                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+                "download": "https://micdoodle8.com/mods/galacticraft"
             },
             "spark": {
                 "name": "Spark",
-                "url": "https://ci.lucko.me/job/spark/lastStableBuild/artifact/spark-universal/build/libs/spark.jar"
+                "url": "https://ore.spongepowered.org/Luck/spark",
+                "download": "https://ci.lucko.me/job/spark/lastStableBuild/artifact/spark-universal/build/libs/spark.jar"
             },
             "spongeforge": {
                 "name": "SpongeForge",
                 "version": "1.12.2-2838-7.2.3",
-                "url": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.3/spongeforge-1.12.2-2838-7.2.3.jar"
+                "url": "https://www.spongepowered.org/downloads/spongeforge/stable/1.12.2",
+                "download": "https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2838-7.2.3/spongeforge-1.12.2-2838-7.2.3.jar"
             }
         },
         "curseforge_mods": [
