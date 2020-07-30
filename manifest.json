@@ -22,7 +22,7 @@
     ],
     "client": {
         "java_args": "-XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
-        "external_files": {
+        "external_resources": {
             "overwrite": [
                 "mods/**/*",
                 "resources/**/*"
@@ -87,7 +87,7 @@
     },
     "server": {
         "java_args": "-XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+OptimizeStringConcat -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseBiasedLocking -XX:+UseCodeCacheFlushing -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseLargePagesInMetaspace -XX:G1HeapRegionSize=32M -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:InitiatingHeapOccupancyPercent=10 -XX:MaxGCPauseMillis=50 -XX:MaxTenuringThreshold=1 -XX:ReservedCodeCacheSize=2048M -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90",
-        "external_files": {
+        "external_resources": {
             "overwrite": [
                 "config/**/*"
             ],
@@ -97,21 +97,20 @@
             "galacticraft-core": {
                 "name": "GalacticraftCore",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
-                "download": "https://micdoodle8.com/mods/galacticraft"
+                "url": "https://micdoodle8.com/mods/galacticraft",
+                "download": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
             },
-
             "galacticraft-planets": {
                 "name": "Galacticraft Planets",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-                "download": "https://micdoodle8.com/mods/galacticraft"
+                "url": "https://micdoodle8.com/mods/galacticraft",
+                "download": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
             },
             "micdoodle-core": {
                 "name": "MicdoodleCore",
                 "version": "1.12.2-4.0.2.280",
-                "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
-                "download": "https://micdoodle8.com/mods/galacticraft"
+                "url": "https://micdoodle8.com/mods/galacticraft",
+                "download": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
             },
             "spark": {
                 "name": "Spark",
