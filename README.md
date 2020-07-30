@@ -96,6 +96,7 @@
 | AppleCore | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applecore) |
 | AppleSkin | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 | Auto Third Person | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/auto-third-person) |
+| AutoSwitch | [Minecraft Forums](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278132-thebombzens-mods) |
 | Better Advancements | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements) |
 | Better Placement | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-placement) |
 | Camouflaged Creepers | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/camouflaged-creepers) |
@@ -133,7 +134,6 @@
 | WI Zoom | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) |
 | Xaero's Minimap | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
 | Xaero's World Map | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
-| AutoSwitch | [Minecraft Forums](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278132-thebombzens-mods) |
 
 ### World Generation
 
@@ -177,6 +177,7 @@
 | Custom Main Menu | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu) |
 | Default Options | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/default-options) |
 | DiscordCraft | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-rich-presence) |
+| FTB Backups | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups), [FTB Wiki](https://ftbwiki.org/FTB_Utilities) |
 | More Overlays | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-overlays) |
 | OpenEye | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/openeye) |
 | ReAuth | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reauth) |
@@ -208,6 +209,7 @@
 | Fantastic Lib | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fantastic-lib) |
 | Farseek | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farseek) |
 | Forge MultiPart CBE | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) |
+| FTB Library | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library) |
 | Guide-API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guide-api) |
 | iChunUtil | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ichunutil) |
 | InfinityLib | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/infinitylib) |
